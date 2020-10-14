@@ -304,3 +304,9 @@ int lista_vazia(Lista* li)
         return 0;
     return -2;
 }
+int lista_cheia(Lista* li)
+{
+    
+        return false;
+   
+}
